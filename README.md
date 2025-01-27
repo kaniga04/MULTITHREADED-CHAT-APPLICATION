@@ -19,3 +19,6 @@ It is an excellent example to understand key concepts in network programming, su
 Socket Communication: Using ServerSocket for the server and Socket for clients.
 Multithreading: Ensuring that the server can handle multiple client connections concurrently.
 Input/Output Streams: Reading and writing messages over the network.
+
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/aaecb979-f079-4a34-b12b-5dbe6a988026)
+
